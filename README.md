@@ -365,7 +365,8 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
 ##### Other
 
-- **[SideProject Books](https://books.makesideproject.com/)** - Side Project Books is a curated collection of books for anyone interested in building a business on the side. By [Mubashar Iqbal](https://twitter.com/mubashariqbal)
+- 
+- **[Maker Books](https://makerreads.com/)** - Maker reads provides data-driven book recommendations for entrepreneurse. By [Jakob Greenfeld](https://twitter.com/jakobgreenfeld)
 - **[The SaaS Bootstrapper book list](http://thesaasbootstrapper.com/book-list/)** - Collection curated by [Mac Martine](http://macmartine.com/). 
 - **[Badass: Making Users Awesome](https://www.amazon.com/Badass-Making-Awesome-Kathy-Sierra-ebook/dp/B00VAUIM18/ref=sr_1_1?s=books&ie=UTF8&qid=1493985078&sr=1-1&keywords=badass+kathy+sierra)** [$] by [Kathy Sierra](http://seriouspony.com/).
 - **[Anything You Want](https://www.amazon.com/dp/B00SI0B5FS/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)** [$] by [Derek Sivers](https://twitter.com/sivers).
